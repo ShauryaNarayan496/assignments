@@ -1,3 +1,5 @@
+# this code is counting the number of words in a file 
+
 def count_words(filename):
     with open(filename, "r") as file:
         text = file.read()

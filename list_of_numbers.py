@@ -1,3 +1,4 @@
+# this code is calculating the average of a list of numbers 
 def calculate_average(list_a):
     sum = 0
     length = len(list_a)

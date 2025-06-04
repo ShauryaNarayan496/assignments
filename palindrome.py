@@ -1,3 +1,4 @@
+# this code is checking if a string is a palindrome 
 def is_palindrome(str):
     for i in range(len(str)):
         if str[i] == str[len(str) - i - 1]:

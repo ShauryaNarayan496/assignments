@@ -1,3 +1,4 @@
+# this code is handling the zero division error and the value error 
 try:
     a = int(input())
     b = int(input())

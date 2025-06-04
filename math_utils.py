@@ -1,3 +1,4 @@
+# this code is defining a module with three functions to calculate the square, cube and check if a number is even 
 def square(num):
     return num * num
 

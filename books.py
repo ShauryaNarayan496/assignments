@@ -17,3 +17,4 @@ print(book1)
 print(book1.make_discount(20))
 print(book2)
 print(book2.subject)
+# in this exercise we have defined a class Book  with few properties and methods and a subclass TextBook with few properties and methods 

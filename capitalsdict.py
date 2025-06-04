@@ -1,3 +1,5 @@
+# this code is creating a dictionary of countries and their capitals 
+
 dict_a = {
     "India": "New Delhi",
     "United States": "Washington D.C.",
@@ -9,4 +11,5 @@ dict_a = {
     "Russia": "Moscow",
     "Brazil": "Brasilia",
 } 
-print(dict_a.values())
+print(dict_a.values()) 
+

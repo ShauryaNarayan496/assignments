@@ -1,3 +1,4 @@
+# this code is writing random numbers to a file and reading them from the file 
 import random 
 with open("random_numbers.txt", "w") as file:
     for i in range(10):
@@ -6,4 +7,3 @@ with open("random_numbers.txt", "w") as file:
 with open("random_numbers.txt", "r") as file:
     for line in file:
         print(line)
-        

@@ -1,3 +1,4 @@
+# this code is calculating the sum of even numbers from 1 to 100 
 num = int(input()) 
 sum = 0 
 for each_num in range(1, 101):
