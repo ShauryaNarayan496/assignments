@@ -1,0 +1,5 @@
+Api stands for application programming interface . 
+
+api is like a waiter in the resturant .You (the client) look at a menu (API documentation)
+You tell the waiter (API) what you want — like "1 pizza".the kitchen (server) makes it
+The waiter (API) brings it back to you

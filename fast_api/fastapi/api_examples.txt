@@ -1,0 +1,4 @@
+examples of api that we have used are:
+1.googleMapsapi 
+2.youtube api 
+3.payment apis (for example: razorpay)

@@ -1,0 +1,2 @@
+difference between api and database 
+An api fetches the data whereas the database stores the data
